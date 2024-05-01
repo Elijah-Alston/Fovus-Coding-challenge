@@ -1,6 +1,6 @@
 
 import './App.css';
-import textinput 
+import textinput  
 function App() {
   return (
     <div className="App">
@@ -18,7 +18,7 @@ function App() {
       </header>
 
 
-      <div className="Fovus-app">
+      <div className="FovusApp">
 
 
 <h2> APP</h2> </div>
